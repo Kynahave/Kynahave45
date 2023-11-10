@@ -1,0 +1,26 @@
+{
+  "name": "Carl French",
+  "age": 52,
+  "address": {
+    "street": "Zoge Drive",
+    "city": "Jutiuho",
+    "state": "NY",
+    "zip": "16820"
+  },
+  "contact": {
+    "phone": "(210) 903-9851",
+    "servicePhone": "800974541"
+  },
+  "birthday": "1992-07-21T13:05:08.832Z",
+  "ip": "181.80.152.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Ija pavite giol odmizme amidebri dakzifu epusip ov tedicu ti eramali iwoso ti dowfa kucbedo moja adoowaeve. Kur timala ubu bomuli puktup dahsod irnal jufti mivik ihe moz vil cief doile las rafjuhzi uvufi. Vem vuz huaku cijgukmom pib iv nuc vi gogej suz jas reogpal. Putniow ce edomugav mauri otmihmis gergu co vifo kuukji kodki zaz kamjuc ragto sereh ma.",
+    "bio": "Ne zed nilon aporto juv jeit kunevje al fu suz ujhov lim duoc ubimeaho nipu. Pig koon kajzeba tenzo julkif wo kubewnij uk afjumen seelvor wuv jecelzur icerose mofek esaupju hug ho. Ozepi gah sozi licediile fo pov sedhow we uze laz noz be odko."
+  },
+  "apiKey": "0544a0e778b89654609563e90ffb264ef0acc3356e54f12612615ebeec0e398c",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
