@@ -1,0 +1,26 @@
+{
+  "name": "Irene Spencer",
+  "age": 18,
+  "address": {
+    "street": "Piewa View",
+    "city": "Wusmodle",
+    "state": "UT",
+    "zip": "82465"
+  },
+  "contact": {
+    "phone": "(359) 490-1061",
+    "servicePhone": "800287969"
+  },
+  "birthday": "1976-05-14T19:57:04.006Z",
+  "ip": "12.242.12.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Wo wed avofohet wihamu vakpogzu oraefe zov lebzo atodi wigjog ci pobojo mabano. Me pusode bidoze cepu dicos ikuujwuz siip mijvanuv gon duzefal zo vemupe moro omapouj cimedmi. Efipu zovvavvuk ma judhar zu ofehi dofop sosri ov ep umub urco ar lo ma tarhol te sare.",
+    "bio": "Decleeno bo iwwehugo kewawira vafso lu bic suane ebozajra cusjedwa bok ujehijo ebijuve tev taz. Dozgov tabturew taceic fofi ih sulasco so kilot wemdafu ebini dupu hogpuz un rak zakgurgo. Delaw bawpef jubkuf tub lu fibauv uj cates dirsiti hosfezen podubsu lesi."
+  },
+  "apiKey": "d38b5f8990343aacacdd924c36e3a808f221c8fdfffa471c0221867b411afe16",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
