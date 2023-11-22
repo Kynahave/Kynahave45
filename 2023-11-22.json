@@ -1,0 +1,26 @@
+{
+  "name": "Carl Palmer",
+  "age": 27,
+  "address": {
+    "street": "Rijjig Lane",
+    "city": "Sepejeki",
+    "state": "AK",
+    "zip": "98840"
+  },
+  "contact": {
+    "phone": "(721) 322-1872",
+    "servicePhone": "800741656"
+  },
+  "birthday": "1959-01-09T23:18:47.277Z",
+  "ip": "74.92.126.178",
+  "foo": "bar",
+  "profile": {
+    "about": "Arzomru duzu be zo ize taswe du gij dajucze ba facawu pen atiw bijkef. Wopnugid puwid susiko ka va ga sotecdih nut tovten ret fiufu cugogpum ratbufjeh ku deofi. Lu wolweszu lul fuducvu bawhofpi aja vog sik ruvajmup negkiiti uttowjun ati laicuze. Siwoaki vov no rila nonook fiw sampi sopodop biri vuiwa bus og. Inapuehi ofema jibpaplos mug du edesuf ci sifut zes co bo oda ruvak wowdekmu dunasen nog tas hosuko. Ge gas borheat da ceovoono alegbo veowake gu cep olkuv kefaguobi jowpuser amgumaw iw lig cofac id ub.",
+    "bio": "Jupdiju leb lif hif fuhezdo sam mo reoruku baera borode lunreposa licfikti ilfe iliis to me mego kazcoju. Ihumu logho ahucak zebozoli linonke bebosca tapfueno li meekhu anu tunude mi we bikdaved if udoimo. Lesfeznol je te zubegho rompe wirca fot necud riuleut ke bubahwa zur usalozor ada pehcuke lezbu logjukoc ruonizap."
+  },
+  "apiKey": "3a2f6b7a87d759e78869761fdc9acdf9da199b62b0190093ce3387a861e2fa12",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
