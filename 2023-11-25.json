@@ -1,0 +1,26 @@
+{
+  "name": "Alta Griffin",
+  "age": 48,
+  "address": {
+    "street": "Nuzgoj Way",
+    "city": "Doszokum",
+    "state": "FL",
+    "zip": "30677"
+  },
+  "contact": {
+    "phone": "(407) 704-7088",
+    "servicePhone": "800486296"
+  },
+  "birthday": "1969-12-03T15:30:01.222Z",
+  "ip": "179.165.107.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Ri gu kiswij acijumi dot zoh ike ludupat sovruwpo ahageg dah fefibo. Se fiusa miz ejbinof higokdoz azigucwi rijjuk foterac azu fi dav oknof mulasmu munod cicpawam ez. Boumo burvija ob co usoaw acizos dok go raanmu fipfizun agiofjo muebra ka edovamat ev puf. Is temciag uzuiva mizeh opu lo ba ji poefo omu revega ij ogbeok lulhid no tov palizomes pusajdo. Domzir ofavese hikutmar fimotre zojci cinpun vobe wuk pokomvum racovonac jelin ot.",
+    "bio": "Lavudah hutozzev upuojsi wevlu heige ekeil gigviw za nejembe zinjam hukum difo ho boetikut cojil ma jarih lutfu. Ci uzuako ka ubonew meb ilocelne tukek rawfu ji jaj weozo botwo ap uhanojeb. Jitvajig lunehva zahku pu ojaus tuzdisac jog jiru lehatge fitev hekipo reubu revudwuk. Sebof rogik vukujtak kumduz wawat hud pe kiscezuv kodode vucha kekdodnu keava suhgejuj ge zerhec."
+  },
+  "apiKey": "e54ab6e45993d5c62c1dd4c948d6ea00da66ffae604af61c5ca9f05baed3f73c",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
