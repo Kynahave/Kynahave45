@@ -1,0 +1,26 @@
+{
+  "name": "Julia Santiago",
+  "age": 47,
+  "address": {
+    "street": "Bumrus Path",
+    "city": "Zijitpe",
+    "state": "MN",
+    "zip": "23907"
+  },
+  "contact": {
+    "phone": "(718) 570-7044",
+    "servicePhone": "800282672"
+  },
+  "birthday": "2000-06-13T20:36:34.306Z",
+  "ip": "234.207.179.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Laaj jekgow raccojadu luh elamepe oceadsom zemihriz maevotu bu gekwigek acpot tivedaj ninfuwopu lude. Mow abuto hep gadume koodoban lejdogzat ecarokgip utvufop hafakkiz covhak pa ta. Eji tuve digaji ege jiwovre jatop rotonu gidvij bobevave babzuija paveow jugkap farupov ruhduwav zi rizi.",
+    "bio": "Lig va fisocfaj rusef raz rit joksafpu ji matit uj he fereki nav fuzdu luzsu pegkumam unpiwlo pij. Udomo ipofiz cap naizebi ugodo inidu pal jemnaboc gufguces ticer mefbir fut. Ni ob koptapa jiv az dinab de is ife rofpilri nirhe bifa rokip."
+  },
+  "apiKey": "61e81b1b9799de7e5a85a03cacd8ca754f1c6256c3b73109a85a92a4c8e328ec",
+  "currency": {
+    "code": "WST",
+    "name": "Samoa Tala"
+  }
+}
