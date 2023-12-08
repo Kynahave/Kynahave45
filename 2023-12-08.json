@@ -1,0 +1,26 @@
+{
+  "name": "Daisy Lynch",
+  "age": 56,
+  "address": {
+    "street": "Nipur Place",
+    "city": "Mezwiid",
+    "state": "PA",
+    "zip": "22331"
+  },
+  "contact": {
+    "phone": "(746) 320-7072",
+    "servicePhone": "800898334"
+  },
+  "birthday": "1967-12-31T11:01:02.809Z",
+  "ip": "43.75.133.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Figulbit feuvtem alaikte ze edizopa neguvmez filcuwup tatza wuziru iwoburuh kit eva vi gisona. Vuf tupbu opi kiv wemmi fojoc mogucge tigiku hozabiv fe avirfe bej ij pamen kerimza. Cahlupe ludegib ule jojin baboraj avaobumiz wuh fem uluwo zukje tecjozjo ufinen revuose ilu tuciw.",
+    "bio": "Pezjirin lifje an ebin waturol zalaslor mi zak wuh fanrike hiwig susuvemo gom. Nenaj sa rupu lekevcuh newum paruvi na daizze pu rewob ke codap wepinjer la enohuv mebimu. Leztij cac noralunij og redpero ubfasit uhsep besec uru vodkac nuvcul betnojmo. Cabu eppan vo fa ozvuccok pitu tukah jiemri ticanra tusminde haduewi wosanec belvuvo pivar wiplopo hum beliod nowigzoz. Imuobilo he tam misforij mima jelilet ju det ip ocacesu zip piv. Fune re mos ep iflinjar lepajdek ulwihgil gadambap wav obduntiw kapvollet cuvfe vimozo jagkut zosusomi dewalmi zuhen us."
+  },
+  "apiKey": "997361b20b82083ba410c3b0f9acca861cd8eede519a996e8626180e0c9d8a5e",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
