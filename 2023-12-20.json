@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Dawson",
+  "age": 21,
+  "address": {
+    "street": "Cafod Avenue",
+    "city": "Ciwilpav",
+    "state": "AL",
+    "zip": "29174"
+  },
+  "contact": {
+    "phone": "(761) 710-5938",
+    "servicePhone": "800323519"
+  },
+  "birthday": "1972-12-01T00:20:00.304Z",
+  "ip": "70.64.99.208",
+  "foo": "bar",
+  "profile": {
+    "about": "Ikoipu olahufwuk meridanoj mi fo ke ujdunro zik okezoba dokja oh zi ace iwo cowsisho. Cuj lug efo uwsep ez munpuc mutkaz nafimofa zaki hob bogja nifzoacu pi. Vaeb ig lihovopit boepusu kuwe uhkuev corsewi fojipu dil wornuwrew ramoba pujpizosi ned. Jujkimomu toczipcu dope jib toprope ga aloadboc giemuga wed bu pota zo milso difco gaju vode wonew.",
+    "bio": "Mucuzeb vik coc gigihi ike ates ivgidvu veftoc efidoj itoluen bamcaki nuw zupew pilu fipala setsag lenepo sirdeh. Bitud ewelegcun cozfaadi goniaha folzenis ji kesip vowbi ge sove poro ugi zive lutfel jicsedlaf. Lo feno alumok tuh tenbawut koej vehtiij sahan ucced biw hiopkil umaop mipolin dufug vazopis bogag duciwumi nimezo. Lojki afoeje tici fik mi ho durroc ozpubfe fegem dufa zil bi mugowov urwusnu ob wimje. Ov velok latazga du luffuzvim kor firsajjob sez vuzloswo va misja poc lofahu fud zew."
+  },
+  "apiKey": "2c9bab2907b66d7dde2c96fbba5d09fd93e698661604865e1e8884b052bd089f",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
