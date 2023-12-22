@@ -1,0 +1,26 @@
+{
+  "name": "Esther Cunningham",
+  "age": 28,
+  "address": {
+    "street": "Banrud Path",
+    "city": "Mefugal",
+    "state": "MD",
+    "zip": "07833"
+  },
+  "contact": {
+    "phone": "(751) 243-4536",
+    "servicePhone": "800232714"
+  },
+  "birthday": "1991-01-01T06:48:48.234Z",
+  "ip": "31.126.129.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Iddosku buvapci wecpi maguvavu laefdi ajiim dehriwtap lin zowa noewute egred viblajij. Zum fubenez sahupe itetak aneaba wokhavom hubwaog wa cokawsem efduz mob gezdaubu icawowuc jof dotromesu lithe amowov. Vaj unsac govrejso cesrehog hew ze to zosazvin vaevour hono noirno rodnipof.",
+    "bio": "Bebcigu fog kaltotig akgalaw ohouki fawez fivri la hedaib si depofe webane. Ladaznes wib rekfezeb tendimeh tu ce gufci wibiir gapaj wicdiin zo jin co ed. Hiltuke beif ne cobuz fehsevod moah ezufitaw cub sat dijurzo bazsaw gawhupde ife vapo wenfot. Lugpu ge ekocigowe kun ewo rudiciju tizlisfel hele uvulikava dumpon davgojteh ovi didreja dik kirigsom. Cote pufo adihaf dovu cirueb alaho rup zizja pefoh na cev levud fealto. Codlem bucledaz fipwofop moztav gaj hobdases jirumvo govteb nicbedbij tizpe alawic bid sugrehtaw teifuci ihjobi utate rotwafwi jomu."
+  },
+  "apiKey": "4e4a03012cf81cae9bd40ae08901966a0df3c6d026b0c4cfb6e278fc8e4cb865",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
