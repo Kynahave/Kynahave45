@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Allen",
+  "age": 22,
+  "address": {
+    "street": "Eppe Street",
+    "city": "Dulumig",
+    "state": "OK",
+    "zip": "19782"
+  },
+  "contact": {
+    "phone": "(780) 907-1811",
+    "servicePhone": "800638858"
+  },
+  "birthday": "2001-07-29T16:51:19.212Z",
+  "ip": "47.13.166.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Efebu av haki mibkogof rowteku ecitusrar fe gusi komcoot wakrat we lih loc be gitca. Le di bisruohu hamsawlu busmah tekepo letnuf cuf japzecow so um citbokig. Ratehbu gat zefazuvo isnakkuk ewasifer ebpo bacnuwhug loran gizizon ko zicpo rec minnes luhcicfe. Zu zi decofuh zegweso vad webva ala repot rurehe guvduwsi haekgol vubu ogu rajohu.",
+    "bio": "Ti boud ki babek dah dedugif ar mozo rogaf igibum uzfam satrut zip lefuawi nal vagor pegav. Najit mub zejulo os uw hos ewohujob lobivci diri uc wiscudig cubew meraj tidar pow jirmi. Nitfiffu gaji abi das zoj kudpo rigo sarhevoz hor jalvuaj jaega jewanizav ce vumhep wico."
+  },
+  "apiKey": "e8044b14617a5112b0047c8d7c3cc010a305335b590a3df3376e536f01f99b0f",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
