@@ -1,0 +1,26 @@
+{
+  "name": "Augusta Rios",
+  "age": 48,
+  "address": {
+    "street": "Lufa Center",
+    "city": "Fozofual",
+    "state": "RI",
+    "zip": "34403"
+  },
+  "contact": {
+    "phone": "(961) 807-2501",
+    "servicePhone": "800248971"
+  },
+  "birthday": "1990-04-28T05:36:30.358Z",
+  "ip": "45.203.237.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Fas pizaeb rakvi sog anuohokoz lem imophin fenfopo ah omerephu ted geb hienji guoluhi hosin. Lebobes ukna ci tik cu hasutkis urazike sanu wo matta as irri buozu dubo ziuwi sitlik gakoaj. No me lo fafa busesnom guli sog ba wu udzosfad pu iraif ros ta jova hemfefese lebbut tehowtal.",
+    "bio": "Opcodi lucezokag losoil lufaluc ri bijsiretu de mu zug erecid za tiabal ziti wo behegnat hagubo baz. Ku ce tiksozref dih zas evzafo fuer mi zeavcuc jo pakasobo wic onopu tej. Tebeti cibuvpe ehozawse dez ronav gersabmob egu geg muv ak okouhcu lewce fut boroweg er bu donina ekosi."
+  },
+  "apiKey": "74136a79bf965fc6b775d31cfc69619f99a03036c0f47f9a2fca95b1a13df8ea",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
