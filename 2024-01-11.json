@@ -1,0 +1,26 @@
+{
+  "name": "Isaac Fuller",
+  "age": 35,
+  "address": {
+    "street": "Mapo View",
+    "city": "Kepnuhe",
+    "state": "NM",
+    "zip": "56274"
+  },
+  "contact": {
+    "phone": "(830) 749-5784",
+    "servicePhone": "800746656"
+  },
+  "birthday": "1965-04-05T10:25:17.023Z",
+  "ip": "51.14.50.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Pin vavkof bazutu het riv ecezavo nubaovi sanjegzoj jazefrez edadevo ci howisag ehedi vokdut. Ripo mapsacog jiut evnom junkectis ogo humwuriw dowev hoet ohe me wo liuma pifanhe. Kekek hu bokofeve hichuve mivsev riklejatu baawafu sitih ron elvobla riv okepig rilic tifgoni ba ogahopo.",
+    "bio": "Ospateg cuishil pab nokbegij asnov pu penjo wila tud rewlow puhupaca fulrep gipva pav fake pacloctow taag fi. Id ribehe riogib sa uhumow atiwu ba kasajwo ti mawez sagfoz sa gucob ugobezon defdo penmat zucij na. Udeuv olmebi diraati idri vo zas cahapel go ticvim zu daf lous wocuhak ugulum me iludebeh fodunza."
+  },
+  "apiKey": "012787b32607297cbb4d1742455ee1a10e07cb7e199b24ae11e5e896d3938295",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
