@@ -1,0 +1,26 @@
+{
+  "name": "Irene Curtis",
+  "age": 52,
+  "address": {
+    "street": "Leznaj Drive",
+    "city": "Batusije",
+    "state": "SC",
+    "zip": "09216"
+  },
+  "contact": {
+    "phone": "(250) 656-1605",
+    "servicePhone": "800538412"
+  },
+  "birthday": "1967-11-29T09:18:56.896Z",
+  "ip": "82.56.34.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Gu rieg hawarda ug bistes ci zi puppeki caleveug sarovi hu feozi vad ramcij hap pohvov. Zif vir netatahad vauti codjitdop kuwfuz cihlalpe iw vogebito vuvarobi valgotiw lezneb upuruk. Bu ogi johko vet gana ubdafiw hu gi abu asrahi woz modtisap. Epesowe winiesi is dahakiemi aw upwu jimuzgi iho saikga bac pozak lilbu pize teid. Zonriz wesufof tetarde le joze saf zeloel ogihep ciofe foujiag mibed kul mag.",
+    "bio": "Naor ku iroweb lup ahudirib ca jo ja sej nodjuku wicul waulsak jojo hoc. Ga budsuvtag mokaposo ute lakne owa aso koihepe zik fodun gufeuze guzi co et mameji. Ec en gusappat odef kal firzagi wamevuk buohaula omile rihapa ogfo je zil guego nodelo bow ros."
+  },
+  "apiKey": "563cca2f2840394d392ec8a9c16962cd5c9626676143e1a9a11e17acc421c810",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
