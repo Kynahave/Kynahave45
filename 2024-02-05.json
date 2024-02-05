@@ -1,0 +1,26 @@
+{
+  "name": "Olga Barber",
+  "age": 19,
+  "address": {
+    "street": "Tovev Circle",
+    "city": "Vecfowhav",
+    "state": "WV",
+    "zip": "54615"
+  },
+  "contact": {
+    "phone": "(815) 301-3892",
+    "servicePhone": "800635122"
+  },
+  "birthday": "2003-06-24T00:48:17.526Z",
+  "ip": "249.142.255.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Oki zatrakwo butdacuk lejhi beog hiro oru ujero fo fatzowat ew wa. Wifuzoli puicuza zoje wahovfok taj pehoh lut paifi ki zuswa eco pi vow. Vuno neip hor hamwenno jegbo tab mat tockej cifje dog afvum ev semuzlag rahuhe huf kafi. Anigas objo suf zinahus vobpup letvuj zoredi ti moherbiw ewi towju ruha copfes.",
+    "bio": "Hejcu arirottid ope rit uvobacuke oni kodjelmi gesi heseb romahwa tief ake aruude ve. Owlov funmohcar pegotdib iluik jemaw ifika wifogani zipcabga mos moluj ho apulak. Cec nif japuk lovekme nure gajenva fijabta ruckilih ehofu buobo uza zat geljiawu bo."
+  },
+  "apiKey": "fd1f8f278e40bf7b6259750ac49a51f4977eec61e9325f1b4c22566871e552f8",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
