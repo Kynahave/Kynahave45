@@ -1,0 +1,26 @@
+{
+  "name": "Joe Jordan",
+  "age": 63,
+  "address": {
+    "street": "Cilwir Pike",
+    "city": "Peamde",
+    "state": "OH",
+    "zip": "23085"
+  },
+  "contact": {
+    "phone": "(644) 349-8089",
+    "servicePhone": "800434668"
+  },
+  "birthday": "2000-05-02T13:52:38.400Z",
+  "ip": "146.189.223.199",
+  "foo": "bar",
+  "profile": {
+    "about": "Jikag ki faogle lavra ufeje man suv ujtuv vi vofficko actejhoh afte ew fu tepid wupa. Guhos mas gurahna birlu sitetu li vez adogewaz vifiibo di refhoca etnuwda. Sasga eki de oju sugkij uzi voporleh garpa ni wenpavij pid razotu. Gapo junso fad kajijil ka nagab mupluaru lenez adgemca tahul mop buunha kutitoj gihuduh arfapu uba enru.",
+    "bio": "Ipdise is jukkepe haj obadakur ful armusojo dis eguniwti vutosip tun kaw idacoghij corlan malgiho leumsi. Ec poofze dal tig na baw ol sutba lu veop ewpiud tazaf. Pusu behet dosfu uso vefese zatihud etavibvu zegusi doenmuj bac weerudud feed emesiwvo wub cisvut. Ne rinpo awbepke curobali ru pub ukibuiwa zisginpaw huj wab dip woshec owo lafius cilitap."
+  },
+  "apiKey": "b664861e28fa35e89282ae8412a73fa5b84fc876421be04884ab7af4d0f2a240",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
