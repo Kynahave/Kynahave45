@@ -1,0 +1,26 @@
+{
+  "name": "Mae Santos",
+  "age": 62,
+  "address": {
+    "street": "Codu Key",
+    "city": "Nijidre",
+    "state": "MI",
+    "zip": "14148"
+  },
+  "contact": {
+    "phone": "(227) 726-2034",
+    "servicePhone": "800345519"
+  },
+  "birthday": "2006-05-07T02:23:46.470Z",
+  "ip": "207.56.227.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Pah efa tihahzi wuho reziz kaf zuova sek dic terurov usagen gecilfu heh eli. Ce ziz beb hafescuv roupwo an nabpi gicudo niwpil ja jes ira ni hekuh libofe no. Repurbu bu tewbitez diamira hetog ew borawi zuko noda ekakiv urebuw tope agazoffu.",
+    "bio": "Najizha ivo kubudo jomutre bicsavpi te wekabonu tu rapak gorjopaj run bu mo li oluveuvo. Nan uc ho miiz usi cewgu suoheaju iglokil uspi emsulwe gawpelkuv fovcar. Po mapiz sapos roh agjo jawbedag uhapefej bivilare ov vuwu nagro zucom funalka goocful."
+  },
+  "apiKey": "b7edda29c39ab2342743572c296cf4eb96611d7fe2938e968c85e1071d4b718b",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
