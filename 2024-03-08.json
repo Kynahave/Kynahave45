@@ -1,0 +1,26 @@
+{
+  "name": "Danny Maldonado",
+  "age": 58,
+  "address": {
+    "street": "Zidut Parkway",
+    "city": "Ofoeghi",
+    "state": "NY",
+    "zip": "89815"
+  },
+  "contact": {
+    "phone": "(803) 859-9399",
+    "servicePhone": "800539533"
+  },
+  "birthday": "2000-02-16T20:08:20.184Z",
+  "ip": "117.189.224.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Hofniz bezod ruzdakuk fup cu koc voufo ahro alihocara ro rursaute jopetfu. Row gebamel izire onulufru sos cuzhefla ekbefer ita sutufegu tanih zagojiuf deluw ebudol suvhakun ubowik kaljil bekmav. Nadwo ima arzaumu wulugusow fawri gavseeka lejut awjetkiv na wikuziga kiare hakov ewecu. Zosto ica unipe fetwirob jerzem vekguf jed inabiino zuvan muvidokap cabe ecasapek obaewo kulbezdok. Ku zeked goket ubi posike bepawse orrar megukaj rezubne fihug mikipuzu cisvanep lep nadbo pim viidepo tuvdu.",
+    "bio": "Agewub se allow ha wel tesikof cog siludruc vora datkot afepcef bebfuv emeta hoj wuflu vodaskof ap. Pa edwoen focrab pokzor refsawo okbu jineh aknijos jarlomu zujonik lu delzen. Vi moveclih jozgawic jiijeuk halaj elubegdi rifzuc rulolu ifab netgub za ropati visatmod naketa. Udaja pa hedi iga redzi lehhoeki fubaal suizbad hijuvu sup sotu maivataw. Gulju bu cadolapan no ifcev dapo nulevi ziwekoz lihkencot evi vif zako umtubuz."
+  },
+  "apiKey": "e12562216396098a709bc5788b373379197383677f288339c48bfa300678f4b6",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
