@@ -1,0 +1,26 @@
+{
+  "name": "Louis Duncan",
+  "age": 22,
+  "address": {
+    "street": "Diga Court",
+    "city": "Fujucla",
+    "state": "IA",
+    "zip": "29116"
+  },
+  "contact": {
+    "phone": "(456) 788-1057",
+    "servicePhone": "800924878"
+  },
+  "birthday": "1993-06-17T23:24:17.587Z",
+  "ip": "135.127.54.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Rul ubi zeodi du vuzi zet ko ko segdem jinvepa cosi nen hivjujvid isupiv. Pu wincuppat merkitpe ji duzah lak ane itzawhe vatbem sildoj siere ikika zekde dovlo wop kumivsi temleg ca. Ewif ohovpu ajovi septimatu mor uvifin ikmeco dot lefoze fe epujo zov sal.",
+    "bio": "Vi divamwa hutebzub nuwac tatgun saufilah anemiccoc paveg lil jafaotu do iho moswu zip. Bada owoehiut lusujo vukgaz azeguuse re tasepo misow fi riihuhi ve dama hi eboem fore. Bojewga likkad titpidav uvuizpup coj runevi sof eb posev folonru dob ke wite co wupni hamup. Alvo ziw fuc obeuveha mewbog we teb ko zu ritobi ne tusgu morsedako ohecozu kohkuviz."
+  },
+  "apiKey": "b30189ba90adcdf159714c53508a38c3d996b7ab048f3671d329b568fbbb10d8",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
