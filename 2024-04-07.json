@@ -1,0 +1,26 @@
+{
+  "name": "Eddie Johnston",
+  "age": 38,
+  "address": {
+    "street": "Wodu River",
+    "city": "Bizhizu",
+    "state": "WV",
+    "zip": "58027"
+  },
+  "contact": {
+    "phone": "(425) 430-5936",
+    "servicePhone": "800819722"
+  },
+  "birthday": "1995-01-27T14:18:35.586Z",
+  "ip": "198.50.153.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Wifco lufri iz asabejim ju juw neuvtu nije ofwermi zu jo ehijnab. Za le virzuv rowuko vic cuw ci ez pe fu vezlopav cik oskuh gifvendin wehko imhiv camkataz kas. Iggicko povfow zaew veifo se wam vokwam ziwifadam mudwu kijuke ze kad lale.",
+    "bio": "Igcaz esi duw uk kakcig ipopaz dadreho re lo jij cibmugaso doopuzen gofdik dag leh. Cisjo ubudu ikoberef pucvewri waz ejakep pokcemwe ropeba tozez kohzug dado dapmolak amunahak. Jiruro ajmaf osimebfa nad ambij karahe carzok bamupuj nupfe zuvdoup hi suhi ku hotdo. Temuve nep zoboeva okuden ojlor utbazwu wamduul ca rungim si ugemaob ifica."
+  },
+  "apiKey": "c8c736de0e21839c5d00229058f9075a2cbf133d770a003dc831006c1581d0ed",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
