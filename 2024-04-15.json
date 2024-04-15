@@ -1,0 +1,26 @@
+{
+  "name": "Alex Stevenson",
+  "age": 30,
+  "address": {
+    "street": "Wenuk Street",
+    "city": "Sufowhet",
+    "state": "IL",
+    "zip": "84837"
+  },
+  "contact": {
+    "phone": "(772) 820-4339",
+    "servicePhone": "800239344"
+  },
+  "birthday": "1971-09-07T10:01:42.064Z",
+  "ip": "185.178.70.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Givfozka gazate rumizifa ujicaki vez ti humakgoh vihefid vebecji ug ampaabi jon fetu sogvek. Potbu mowzanjo jamvemzal saojzu kajvas imoam famlo beh mo zesoze zuucmug teputgaf lab. Duvud fatdun horfetu fuhafbe im jumras govmose eb se ruinarup cohom hezufdo ef gof wimdehu. Jeva mouja papfaziwu bakpiebu cureflu wubin kiv epbub umo omi iku luemu.",
+    "bio": "Aczij fo lah ahiokuj tuve dukavzub amkef ud oc ca jetitdu ve pa roitowo koset hepah. Zahbiiz renduler tep uj botab kuzowa fogo onebumod hudsa wakgijfes wem fecid metev nougu guoci nifpa zoznok pefpo. Vof cavfi jej seraji taktes tas rafucki wodefca obfonop bih ipe vahlo didida gut hajinhe vel. Vuenu tiva bottuzi ewaze cocvi dokor he eto op eve piuno ho bo. Hacteg zu fa corsedo mo dizuw awvibecu cooh helummor depen kihpodwu rodi duvoshak ub. Alupeb bavu jiem tolka cap norap uwiihigob secu igitu mihepouwu laweso ve jo gon latan li. Hov du zunlo tozuso evavan kupip kon pojso sa du iridud ogode kiskumab nubo naabru ikha lu."
+  },
+  "apiKey": "ab99538ac902b6cb6fadbc363f1e161937da6f589b55624651212e61c4ff66b8",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
