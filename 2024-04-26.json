@@ -1,0 +1,26 @@
+{
+  "name": "Clarence Hunter",
+  "age": 40,
+  "address": {
+    "street": "Agucuz Street",
+    "city": "Welridda",
+    "state": "KY",
+    "zip": "53246"
+  },
+  "contact": {
+    "phone": "(838) 493-4867",
+    "servicePhone": "800143912"
+  },
+  "birthday": "1989-04-23T13:40:59.304Z",
+  "ip": "155.138.247.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Rotep pel fovolido ubu paih mafugmi enruk om bacel zegsagda no lapdudu merzomdik kaz sajcetsed nugusi mu. Cortej datig hu bi rac tahfoz deus de lavuug gu de lo kov fa. Huzbadse zah hirluuku ura cukakze je zah rotag viza ligac sed jam wihfir we koidfa da nifojgi. Hukgohi hu sun ava mef jisvo ov oku noszi zo bekro aclito cusu ki boncoruc egeehotu.",
+    "bio": "Mu da kos keturabop we ul vaefu efwig uze oviura dorde gafise sojo ilajun dov oza ficib. Wawge imugiw juagepu uveirwi ruzipon du re zojji piporse zopazfa zuzduc fu zajatbu ivopabi ju usiavtaz. Laru coslidum oti jir luuzu lih ewjuvut igdefaz ru zokawra mitre rebi hi akpu nas gitopvif bot nu."
+  },
+  "apiKey": "04ac93d3c58255815046ec87f91f21b3d1da769b0d7044f521ff98c5c8231396",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
