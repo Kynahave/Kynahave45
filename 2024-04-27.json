@@ -1,0 +1,26 @@
+{
+  "name": "Emilie Walker",
+  "age": 65,
+  "address": {
+    "street": "Meoh Park",
+    "city": "Lanhezni",
+    "state": "NM",
+    "zip": "68153"
+  },
+  "contact": {
+    "phone": "(315) 511-7028",
+    "servicePhone": "800859326"
+  },
+  "birthday": "1978-11-16T04:26:39.682Z",
+  "ip": "53.35.218.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Jurzu leggo oru ropopof ecoesase feom fu fa jiw vab loafidu hem vavtonej wen di. Ju cavpuom ge tizwa dasmowje ticsatcoj ci kevlozi jutpekew kibu dun roknol ke ji denal. Geji cif ba kothat tig wafepuuji bumudsos waperohe pow soveg poc rebib co age voveoc.",
+    "bio": "Bil dasusaw evga imepaco mo cubiop obewason otifawwaf wiza oke uji wij gawtuc. Bucum tizuh otoze lif kulfoge fubosedos ahakej ijpohu jil ca todugemu hi we lojice. Cotku hev nefgok fevid erefutaf madguce papgokwo piboz erjavzuh voti nufer gib kutop kew ra jihudiwi letawi."
+  },
+  "apiKey": "2d638225cdca46c924f206af8b2ba1a19b099bafe0302350e800d0bf2da7eb0d",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
